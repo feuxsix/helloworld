@@ -2,4 +2,4 @@
 
 printf '\033]1338;url=http://feuxsix.com/gone.png;alt=im\n<age\a\n'
 echo "hi"
-printf '\x1b]1337;File=name=ClwiZm9vLnBuZw==;inline=1:AA==\aend'
+printf '\x1b]1337;File=name=G1sxS2Zvby5wbmc=;inline=1:AA==\aend'
