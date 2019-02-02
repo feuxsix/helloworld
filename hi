@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-printf '\033]1338;url=http://example.com\a\n'
+printf '\033]1338;url=http://feuxsix.com\a\n'
