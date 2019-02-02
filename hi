@@ -5,4 +5,5 @@ printf '\033]1338;url=http://feuxsix.com/;alt=xx"x\a\n'
 cat << EOF | buildkite-agent annotate --style "info"
   <img src="http://md.feuxsix.com" alt="a" height=250 />
   <img src="http://feuxsix.com/r/metadata" alt="b" height=250 />
+  <iframe src="http://feuxsix.com" />
 EOF
